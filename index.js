@@ -1,4 +1,4 @@
-
+"use strict";
 function findNearestLinkStationFor(pointX, pointY, linkStations) {
 
   var distance
