@@ -1,3 +1,4 @@
+console.log("Useless console.log");
 "use strict";
 function findNearestLinkStationFor(pointX, pointY, linkStations) {
 
